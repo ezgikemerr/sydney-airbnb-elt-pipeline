@@ -8,6 +8,8 @@ This project builds an end-to-end **Extract, Load, Transform (ELT)** pipeline to
 
 The resulting data warehouse supports regional revenue comparisons, property and host analysis, demographic insights, and estimated mortgage coverage assessments.
 
+> **Detailed Project Analysis:** For a comprehensive overview of the project implementation, methodology, technical decisions, and analytical findings, please refer to the [ANALYSIS.md](./analysis.md) file.
+
 ## Dependencies
 
 - Python 3.x
